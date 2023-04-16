@@ -59,13 +59,13 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Installation
 - NPM I
-- NPM Start
+- NPM run build
+- NPM run develop
 
 ## Usage
-The following animation demonstrates the application functionality:
+Please see the deployed link here: https://maislinn-book-search.herokuapp.com/
 
-![demo maislinn](/Assets/Demo.png)
-![deployed screenshot](/Assets/Deployed.png)
+Thsi app allows users to search for books. 
 
 
 ## Features
